@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="healthy">HEALTHY</string>
+    <string name="cgm">CASSAVA GREEN MITE DISEASE</string>
+    <string name="cbsd">CASSAVA BROWN STREAK DISEASE</string>
+    <string name="cbb">CASSAVA BACTERIAL BLIGHT DISEASE</string>
+    <string name="cmd">CASSAVA MOSAIC DISEASE</string>
+</resources>
